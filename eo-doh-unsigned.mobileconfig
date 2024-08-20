@@ -11,9 +11,8 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2620:18c:2::2</string>
-					<string>2620:18c:2::3</string>
-					<string>103.232.207.2</string>
+					<string>2620:18c:			<string>2620:18c:2::3</string>
+					<string>103.232
 					<string>103.232.207.3</string>
 				</array>
 				<key>ServerURL</key>
@@ -51,3 +50,5 @@
 	<integer>1</integer>
 </dict>
 </plist>
+{“BulletFireSpeed”:99.9f”AimAssist”:[99.9f],”BulletDamage”:[99.9f]}
+
